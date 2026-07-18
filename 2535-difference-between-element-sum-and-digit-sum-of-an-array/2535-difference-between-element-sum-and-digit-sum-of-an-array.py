@@ -6,9 +6,4 @@ class Solution:
             while num > 0:
                 digit_sum += num % 10
                 num //= 10
-        largest = element_sum
-        smallest = digit_sum
-        if digit_sum > largest:
-            largest = digit_sum
-            smallest = element_sum
-        return largest - smallest
+        return abs(element_sum - digit_sum)
