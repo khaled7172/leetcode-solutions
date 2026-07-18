@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/khaled7172/leetcode-solutions/tree/master/0258-add-digits) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/khaled7172/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/khaled7172/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/khaled7172/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
