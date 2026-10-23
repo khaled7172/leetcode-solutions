@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/khaled7172/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/khaled7172/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/khaled7172/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Linked List
 |  |
