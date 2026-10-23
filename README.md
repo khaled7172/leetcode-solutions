@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/khaled7172/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/khaled7172/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/khaled7172/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/khaled7172/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/khaled7172/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/khaled7172/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/khaled7172/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/khaled7172/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/khaled7172/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
